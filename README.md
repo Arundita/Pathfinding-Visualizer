@@ -5,4 +5,4 @@ Generated animations to visualize the exploration made by the algorithm.
 
 Demo
 
-![](pathfinder_demo.mov)
+![](pathfind_demo.mov)
